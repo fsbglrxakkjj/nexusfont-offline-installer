@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NexusFont Free Installer** — NexusFont is a free font manager for Windows that allows organizing and managing font collections without permanently installing them. Works without internet access, no account required. Full offline installation.
+**💻 NexusFont Free Installer** — NexusFont is a free Windows font manager for organizing, previewing, and temporarily activating fonts. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About NexusFont
 
-NexusFont is a free font manager for Windows that allows organizing and managing font collections without permanently installing them. Preview fonts with custom text, group fonts into categories, and activate fonts temporarily for specific projects. NexusFont is particularly useful for designers with large font collections who want to keep their system lean by only activating fonts when needed.
+NexusFont is a free Windows font manager for organizing, previewing, and temporarily activating fonts. It supports font groups, tagging, favorite collections, and side-by-side comparison — keeping font libraries organized without installing everything system-wide.
 
 ---
 
 ## ❌ Problem: NexusFont is hard to access
 
-- **Windows Only** — No macOS support
-- **Dated Interface** — Visual design less modern than newer font managers
-- **Limited Cloud Features** — No cross-device sync capabilities
-- **Bulk Operations** — Mass font management operations can be slow
+- **Windows Only** — Not available on macOS or Linux
+- **Dated Interface** — Visual design reflects older Windows application conventions
+- **Development Inactive** — Project appears to receive minimal updates
+- **Limited Features** — Missing advanced features of commercial font managers
 
 ---
 
@@ -121,7 +121,7 @@ NexusFont is a free font manager for Windows that allows organizing and managing
 
 ---
 
-**NexusFont Free Installer** — NexusFont is a free font manager for Windows that allows organizing and managing font collections without permanently installing them. Install without internet connection today!
+**NexusFont Free Installer** — NexusFont is a free Windows font manager for organizing, previewing, and temporarily activating fonts. Install without internet connection today!
 
 <div align="center">
 
